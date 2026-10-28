@@ -1,7 +1,7 @@
 {
-  "version": "2.0.1-beta.5",
-  "url": "https://raw.githubusercontent.com/TarikYil/aigro-ota-v2/main/ota/s3-v2/beta/2.0.1-beta.5/AIgro_Firmware.bin",
-  "sha256": "e8ffe5da0d24cbaba090ca6ebe2c6789a369a89f0cafd7e4132f9fc5cf47b3aa",
+  "version": "2.0.1-beta.6",
+  "url": "https://raw.githubusercontent.com/TarikYil/aigro-ota-v2/main/ota/s3-v2/beta/2.0.1-beta.6/AIgro_Firmware.bin",
+  "sha256": "c67b4c31033e403478b7df186bcf87fc05334c6421afc1a7a88e7ab62ef0b931",
   "channel": "beta",
   "board": "s3-v2"
 }
